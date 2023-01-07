@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ABR-X
 **'FULL-STACK DEVELOPER'**
 
-As a driven and detail-oriented software engineer, I am passionate about developing innovative solutions to complex problems. With a strong foundation in languages such as Python, Java, and PHP, as well as frameworks like Django and Bootstrap, I have a track record of delivering high-quality code on time. In addition to my technical skills, I am a strong team player and have the ability to work collaboratively with others to achieve common goals. I am always looking for opportunities to learn and grow, and I am excited to bring my skills and experience to new challenges.
+As a driven and detail-oriented software engineering student, I am passionate about developing innovative solutions to complex problems. With a strong foundation in languages such as Python, Java, and PHP, as well as frameworks like Django and Bootstrap, I have a track record of delivering high-quality code on time. In addition to my technical skills, I am a strong team player and have the ability to work collaboratively with others to achieve common goals. I am always looking for opportunities to learn and grow, and I am excited to bring my skills and experience to new challenges.
 
 
   <!-- Template from https://github.com/DenverCoder1/DenverCoder1 -->
