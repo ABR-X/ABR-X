@@ -1,6 +1,6 @@
 # 👋 Hi, I’m ABDERRAHMANE a FULL-STACK DEVELOPER
 
-As a driven and detail-oriented software engineering student, I am passionate about developing innovative solutions to complex problems. With a strong foundation in languages such as Python, Java, and PHP, as well as frameworks like Django and Bootstrap, I have a track record of delivering high-quality code on time. In addition to my technical skills, I am a strong team player and have the ability to work collaboratively with others to achieve common goals. I am always looking for opportunities to learn and grow, and I am excited to bring my skills and experience to new challenges.
+As a software engineering student, I am particularly interested in the intersection of data science, content creation, and financial markets. With a solid foundation in programming languages ​​such as Python, Java, and PHP, I have a strong interest in applying my skills to automation and web scraping. I also have great knowledge of web development. I am dedicated to developing innovative solutions to complex problems. As a driven and detail oriented person, I am always looking for opportunities to learn and grow. I look forward to taking on new challenges in the field of data science and its applications in content creation and financial markets.
 
 
   <!-- Template from https://github.com/DenverCoder1/DenverCoder1 -->
